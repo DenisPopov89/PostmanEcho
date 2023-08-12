@@ -1,12 +1,11 @@
 package ru.netology.test;
 
-import static io.restassured.RestAssured.authentication;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
 import org.junit.jupiter.api.Test;
 
-class postmanEcho {
+class postManEcho {
 
     @Test
     void shouldTestSomeData() {
