@@ -1,5 +1,5 @@
 # postmanEcho
-[![Build status](https://ci.appveyor.com/api/projects/status/2ta3o9ocuwil3ndg?svg=true)](https://ci.appveyor.com/project/DenisGrigoryevichPopov/ci-appveyor)
+[![Build status](https://ci.appveyor.com/api/projects/status/w5ofat4e2k6odfnr?svg=true)](https://ci.appveyor.com/project/DenisGrigoryevichPopov/postmanecho)
 ## Задача №3 - Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории
